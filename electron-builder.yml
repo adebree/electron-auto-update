@@ -1,0 +1,4 @@
+appId: nl.springtree.electronautoupdate
+publish:
+  provider: github
+  token: $GH_TOKEN
